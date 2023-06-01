@@ -4,4 +4,4 @@ title: Introduction
 permalink: /introduction/
 ---
 
-Here we will write an intriduction
+Here we will write an introduction
